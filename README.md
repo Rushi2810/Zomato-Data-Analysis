@@ -46,15 +46,12 @@ The project addresses the following key questions:
 The dataset used in this project contains detailed information about restaurants listed on Zomato. It includes the following key features:
 
 - **Restaurant Name**: The name of the restaurant.
-- **Location**: The location of the restaurant.
-- **Cuisines**: The types of cuisines offered.
 - **Rate**: The customer rating for the restaurant.
 - **Votes**: The number of votes received by the restaurant.
 - **Cost**: The approximate cost for two people.
 - **Online Order**: Indicates if the restaurant accepts online orders (Yes/No).
 - **Book Table**: Indicates if table booking is available (Yes/No).
 - **Listed In (Type)**: The type of service (e.g., Dining, Cafes).
-- **Listed In (City)**: The city or region where the restaurant is located.
 
 ### Note:
 Ensure the dataset file (e.g., `zomato.csv`) is placed in the same directory as the project notebook for smooth execution.
